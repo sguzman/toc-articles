@@ -5,3 +5,9 @@
 *.scm~
 *.scm#*
 .#*.scm
+*.aux
+*.log
+*.out
+*.pdf
+*.gz
+*.toc
