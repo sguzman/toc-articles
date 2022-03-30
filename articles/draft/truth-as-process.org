@@ -1,0 +1,21 @@
+#+TITLE: Truth as Process
+#+AUTHOR: Salvador Guzman
+#+DATE:  <2021-11-22 Mon>
+#+CATEGORY: Math
+#+CATEGORY: CS
+#+CATEGORY: Truth
+
+* Introduction
+* Deconstructing a Problem
+** Paradox if you want it
+** Paradox, a choice?
+* Plato's Revenge
+* Vindictive Consequences
+* A Curse Elided
+* Logic: Nothing but a Game
+* What is Meant by Paradox in Common Parlance
+* Due Diligence
+* Permitting a Solution to the Halting Problem
+* What Exactly is Supplicated
+* More on Truth as Process
+* Conclusion
