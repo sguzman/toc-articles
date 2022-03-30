@@ -13,3 +13,4 @@
 *.toc
 auto/
 *~undo-tree~
+*.tex
