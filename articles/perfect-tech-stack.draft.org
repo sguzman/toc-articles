@@ -1,0 +1,37 @@
+#+TITLE: The Perfect Tech Stack
+#+AUTHOR: Salvador Guzman
+#+DATE: [2022-04-04 Mon]
+#+CATEGORY: tech
+#+CATEGORY: cs
+#+CATEGORY: ergo
+
+* Introduction
+** What is this
+** Why Bother
+** Motivation
+*** Ergonomic Themes
+*** Personal Pride
+*** Intellectual Challenge
+*** Busy Work
+*** Show off Potential
+*** Work is good
+* Division of Tech Universe into Realms
+** OS
+*** Kernel
+*** Userspace
+*** System Abstractions
+** File System
+*** Stores lots of small files efficiently
+*** Effortly can pool drives together
+** Programming Language
+*** System Programming Language
+*** Configuration Language
+*** Scripting Language
+**
+** Toolchain
+*** Fast DEvelopment
+*** Optional compilation to native
+** Programming Paradigm
+*** Functional Programming
+*** Stateless
+*** Deterministically Reproducible
